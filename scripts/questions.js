@@ -1007,7 +1007,7 @@ const m1c1t3 = [{
         "question": "\nWhen data is encoded as pulses of light, which media is being used to transmit the data? ",
         "answers": [
             "1.  Wireless",
-            "2.  Fire optic cable",
+            "2.  Fiber optic cable",
             "3.  Copper cable"
         ],
         "correct": [
